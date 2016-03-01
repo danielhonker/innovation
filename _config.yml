@@ -91,7 +91,7 @@ collections:
 
 full_rebuild: true
 
-baseurl: /innovation
+baseurl: /innovation/
 
 feed:
   path: /feed/index.xml
