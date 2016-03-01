@@ -40,13 +40,13 @@ tag_dir: tags
 tag_title_prefix: "#"
 
 # use where a full URL is appropriate (e.g. RSS, OG tags)
-url: https://18f.gsa.gov
+url: https://cityofaustin.github.io/innovation
 
 # metadata
-title: 18F Digital Services Delivery
-name: 18F Digital Services Delivery
-description: "18F builds effective, user-centric digital services focused on the interaction between government and the people and businesses it serves."
-timezone: America/New_York
+title: City of Austin Office of Innovation
+name: City of Austin Office of Innovation
+description: "City of Austin Office of Innovation"
+timezone: America/Chicago
 
 # blog archive at /blog
 paginate: 5
