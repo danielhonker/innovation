@@ -1,10 +1,10 @@
 ---
-title: Idea Accelerator
+title: City Manager's Idea Accelerator
 permalink: /idea-accelerator/
 layout: bare
 ---
 
-<h1 style= "padding-top: 64px; padding-bottom: 18px;"> Idea Accelerator</h1>
+<h1 style= "padding-top: 64px; padding-bottom: 18px;"> City Manager's Idea Accelerator</h1>
 
 The City of Austin Innovation Office is soliciting project ideas from all City employees within four of the City Manager’s signature project tracks, each of which reflects a key priority of the City of Austin:
 
