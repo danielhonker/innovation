@@ -1,96 +1,26 @@
 ---
-title: 18F Consulting
+title: Consulting
 permalink: /consulting/
 layout: bare
 ---
 
-<h1 style="padding-top: 64px;"> 18F Consulting: Understand. Acquire. Deliver.</h1>
+<h1 style="padding-top: 64px; padding-bottom: 18px;"> Consulting &amp; Workshops</h1>
 
-Building new digital services or improving old ones can be risky, complex, and expensive. Doing it well can solve real problems, improve lives, save taxpayer money, and improve the government.
+We help diverse and inclusive teams examine challenges and opportunities to surface better ideas and solutions that make a lasting, positive impact. To this end, we work with internal and external partners to develop, test, organize, and encourage innovative projects with the goal of fostering a culture of innovation within the City of Austin.
 
-18F Consulting helps federal agencies adopt modern approaches to managing and delivering digital services. We're federal employees, like you. But we're also a team of designers, product strategists, architects, and acquisition specialists, with wide-ranging experience inside and outside the federal government. Whether you're a program manager, a contracting officer, a lawyer, or a chief information officer, we’ll partner with you and set you up for success.
-
-## What should you build, buy, or change?
-
-Too often, teams tasked with solving a problem don't know where to begin or get locked into an idea too soon. 18F Consulting helps you understand your audiences, and we counsel you on available options (e.g., product strategy, new technology, acquisition).
-
-## How should you do it?
-
-We guide you through proven practices in human-centered design, lean startup, agile architecture, agile development, open data, and DevOps. These industry-standard techniques increase the likelihood your next initiative will thrive.
-
-## Who should do it?
-
-Procuring the right team through an outside vendor or recruiting talent in-house is key to producing high-quality digital services. We understand that federal acquisition and hiring processes have long been barriers to success. We use every tool in our kit to change that, to prioritize getting the right people, and to help you hold them accountable for their work.
-
-Let us assist as you develop a strategy for soliciting and onboarding vendors and design or technology hires. Once you've built a team for your project or organization, we'll help you manage their performance.
-
-## Consulting services
-
-### Short-term engagement services, from two days to four weeks:
-
-- **Design sprint** to quickly prototype and validate different ideas (based on [Google Ventures five-day model](https://www.gv.com/sprint/)).
-
-- **[Protosketching]({{site.baseurl}}/2015/01/06/protosketch/)** for quick technical explorations.
-
-- **Design methods workshop** to teach your team to collaboratively solve problems using “design thinking” and other human-centered methods. This includes hands-on, real-world learning to get your team from idea to experimentation and delivery in no time.
-
-- **[Agile workshop]({{ site.baseurl }}/2014/10/21/how-to-run-your-own-3-sprint-agile-workshop/)** to accelerate your team’s learning and adoption of agile development principles and practices.
-
-- **DevOps workshop** to move your team toward adoption of DevOps principles and practices.
-
-- **[RFP ghostwriting and review]({{ site.baseurl }}/2015/03/30/new-rfp-ghostwriting-service-to-improve-contract-success/)** to increase your contract’s probability of success.
-
-- **Capabilities delivery analysis** to determine what and how to acquire the capabilities your project or organization needs to deliver effectively (e.g., more in-house talent, learning and training programs).
-
-- **Technical evaluation assistance** to help your agency evaluate proposed technical solutions or to serve as technical experts for source selection.
-
-- **Discovery sprint** to assess the readiness of your team or organization, to understand your customers and their needs, to brainstorm ideas, and to provide guiding principles and recommendations for moving forward.
-
-### Mid- to long-term engagement services, from four to 12 months:
-
-- **Agile acquisition** to help your team learn how to design and manage software acquisitions that use modern software development techniques.
-
-- **IT modernization** to increase the IT organization’s capacity to innovate and provide greater value to customers.
-
-- **Agile coaching** to guide your team or organization through adoption of agile practices during the lifecycle of a current project.
-
-- **Vendor marketplace development** to set up and curate targeted, high-performance marketplaces to meet your agency’s specific IT buying needs (e.g., [Agile Delivery Services Vendor Marketplace]({{ site.baseurl }}/2015/01/08/creating-a-federal-marketplace-for-agile-delivery-services/)).
-
-## We’d love to hear from you
-
-Email <a id="email" href=""></a> with your need and we’ll be happy to talk further.
-
-## Recent projects
-
-- Department of Labor / Wage and Hour Division / IT Modernization
-- Social Security Administration / Disability Case Processing System
-- [Navy Reserve / Ready to Serve (R2S)](https://pages.18f.gov/consulting/projects/navy-reserve/)
-- Treasury / DATA Act Implementation
-- Department of Defense / Military OneSource Program
-- Transportation Security Administration / IT Modernization
-
-## Learn more about the work we do
-
-- [Agile Development’s Secret Weapon: Transparency]({{ site.baseurl }}/2015/04/24/agile-developments-secret-weapon-transparency/)
-- [18F Discussion: Should Project Teams Code First Or Design First?]({{ site.baseurl }}/2015/04/03/18f-discussion-should-project-teams-code-first-or-design-first/)
-- [New RFP Ghostwriting Service To Improve Contract Success]({{ site.baseurl }}/2015/03/30/new-rfp-ghostwriting-service-to-improve-contract-success/)
-- [How to Protosketch]({{ site.baseurl }}/2015/03/13/how-to-protosketch/)
-- [Labor Category Descriptions for Agile Procurements](https://18f.gsa.gov/2015/03/10/Labor-Category-Descriptions-for-Agile-Procurements/)
-- [Highlights from the Agile Delivery Services Industry Day Events]({{ site.baseurl }}/2015/02/12/highlights-from-the-agile-delivery-services-industry-day-events/)
-- [A Story of an Agile Workshop]({{ site.baseurl }}/2015/02/11/a-story-of-an-agile-workshop/)
-- [Creating a Federal Marketplace for Agile Delivery Services]({{ site.baseurl }}/2015/01/08/creating-a-federal-marketplace-for-agile-delivery-services/)
-- [Sketching with Code: Protosketching]({{ site.baseurl }}/2015/01/06/protosketch/)
-- [How to Use More Open Source in Your Next Federal IT Acquisition]({{ site.baseurl }}/2014/11/26/how-to-use-more-open-source/)
-- [How to Run Your Own 3-Sprint Agile Workshop]({{ site.baseurl }}/2014/10/21/how-to-run-your-own-3-sprint-agile-workshop/)
-- [The Encasement Strategy: On Legacy Systems and the Importance of APIs]({{ site.baseurl }}/2014/09/08/the-encasement-strategy-on-legacy-systems-and-the/)
+## Consulting
+- **Collaboration Design:** Your project idea probably involves various stakeholders. What’s the best way to engage and involve through the problem solving process? Let us help you design a path for collaboration through crowdsourcing or co-creation. For example, when Austin Resource Recovery was stuck with the challenge of plateaued rates of residential recycling , we used a crowd-consulting methodology to tap community insights into ways in which we might increase residential recycling. The result was more than 1,300 responses organized into 11 insights that directly informed leadership decisions.
+- **Coaching and Mentoring:** Sometimes you just need an unbiased thinking partner with an outside perspective on your project idea. Our staff is happy to be that partner. Each coaching/mentoring session gives you the opportunity to talk through any challenges you might be facing with your project. Together we can brainstorm how to overcome obstacles, realize opportunities, and keep your project on track.
+- **Outside Expertise:** Your project might benefit from outside expertise. Innovation projects often require unique or specialized expertise such as developers, data science, or design. Such projects often benefit from generalist participants with a unique perspective on the challenge or opportunity. The Innovation Office can facilitate access to expertise in two ways:
+ - Our Technology, Design, and Innovation Fellows program will leverage the talent of change-makers within our Austin community to team up with government experts to help refine, prototype, and develop selected Innovation Fund projects to achieve a lasting positive impact.
+ - If you want to use your project opportunity to fully embed user experience design, service design, or complexity navigation into your Department's innovation team, we can facilitate an outside contractor for capacity building to plus-up your capability.
 
 
-<!-- Obfuscate our email -->
-<div>
-  <script>
-    var parts = ["Inquiries18F", "@", "gsa", ".gov"];
-    var email = parts[0] + parts[1] + parts[2] + parts[3];
-    document.getElementById("email").href = "mailto:" + email;
-    document.getElementById("email").innerHTML = email;
-  </script>
-</div>
+## Workshops
+The Office of Innovation offers several different workshops focused on building a foundation for project success, and then facilitating teams through a process to solve a problem. We’ll work with project champions to customize a workshop to your needs. Below are descriptions of some of the workshops others have found valuable:
+
+- **Innovation 101:** Innovation 101 is about laying the right foundation for your team to work together to solve a problem. This workshop will calibrate your team with a common language, skills, and behaviors to reduce the “storming” phase that often happens within teams tackling a complex challenge. It also introduces the team to the strategic co-creation process--a general approach to working through the uncertainty that accompanies innovation projects. We’ll also equip you with the tools and collaboration technologies to be successful. This workshop is valued at $600.
+- **Clarifying the Challenge/Opportunity:** Have you ever asked yourself, “What don't we know? What might we have overlooked or assumed?” When we don’t fully understand all aspects of a challenge--the people involved, the history, constraints, how it connects to other challenges--the solution often fails. Taking just a bit of time to clarify and frame a challenge or opportunity before we begin formulating ideas pays dividends when it comes time for solutions. The Innovation Office can facilitate a team to gain this clarity, using multiple methods: design research, strategic co-creation, visual sense-making, and data visualization. Let our experienced facilitators lead your team through the process so you can focus on the problem.
+- **Prototyping:** By running a small-scale version of a program, project, or service, we help you work through the on-the-ground realities that make change difficult. Prototyping can be anything from a simple storyboard, to a wireframe diagram, to front-end web development, to role-playing a new service interaction. Prototyping helps mitigate risk by building evidence required for full scale implementation. The Innovation Team also uses tools like the Business Model Canvas, to help your team estimate the long-term business requirements that will make your project idea sustainable.
+- **Pitching and Storytelling:** No matter how solid your idea is, if you can’t effectively tell your story, you’ll have a hard time gaining support for your idea. This session will help you present your project in a compelling way when you recruit others to the team, gain commitment from leaders, and boast your results.
+
