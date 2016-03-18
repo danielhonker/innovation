@@ -14,7 +14,7 @@ The City Manager's Idea Accelerator helps identify and initiate project ideas fr
 - Open Government: project ideas that enhance transparency, accountability, and civic participation, and promote use of open data
 
 
-## Refine your idea
+## Idea Submission and Refinement
 
 Project ideas will go through phases of a refinement process. Initial entries will tell us a bit about which track the idea majors in, who the project idea will impact, and the stage of maturity of the idea. The first round of assessments will judge the merit of the idea based on alignment to track: judges will determine the level of alignment (High, Medium, or Low) of ideas to the city priority identified. The ideas with the most merit will be invited to participate in subsequent stages of the selection process.
 
