@@ -1,6 +1,6 @@
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
-redcarpet:
+kramdown:
   syntax_highlighter: rouge
   extensions:
   - with_toc_data
